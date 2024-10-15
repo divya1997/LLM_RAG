@@ -20,6 +20,8 @@ This project implements a Retrieval-Augmented Generation (RAG) system that queri
 # Query results
 RAG based system results are far better than any fine-tuning the model from scratch.
 
+![plot](./resource/results.png)
+
 
 
 
